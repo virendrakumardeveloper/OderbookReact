@@ -1,5 +1,5 @@
 ## Preview
-![Image description](screenshot_order_book.png)
+![Image description](screenshot_order_book.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
